@@ -46,11 +46,6 @@ Healthcare providers can leverage these insights to:
    - Identified top three rules based on these metrics
    - Analyzed the medical significance of these associations
 
-## Repository Contents
-- `medication_association_analysis.ipynb`: Jupyter notebook containing the complete analysis
-- `transformed_medication_data.csv`: Dataset after classification transformation
-- Images/: Directory containing visualizations (heatmaps, rule plots)
-
 ## Key Visualizations
 - Association rules matrix displaying the relationships between medication classifications
 - Heatmap of the principal component loadings
