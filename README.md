@@ -48,7 +48,7 @@ Healthcare providers can leverage these insights to:
 
 ## Key Visualizations
 - Association rules matrix displaying the relationships between medication classifications
-- Heatmap of the principal component loadings
+- Heatmap of the association rule support values
 - Metric charts showing support, confidence, and lift values for top rules
 
 ## Future Work
